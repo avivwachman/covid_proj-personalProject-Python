@@ -2,4 +2,4 @@
 Created a dashboard for viewing the latest COVID-19 data in the US, using Finhub API with CDC information
 Used Tkinter to create the GUI
 
-[Image](https://github.com/avivwachman/covid_proj-personalProject-Python/blob/main/Images/main_photo.jpg)
+![Image](https://github.com/avivwachman/covid_proj-personalProject-Python/blob/main/Images/main_photo.jpg)
